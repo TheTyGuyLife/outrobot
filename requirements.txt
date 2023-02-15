@@ -1,0 +1,8 @@
+discord.py == 1.7.3
+python-dotenv==0.10.1
+youtube_dl
+pafy
+PyNaCl
+ffmpeg
+asyncio
+datetime
